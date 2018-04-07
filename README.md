@@ -1,1 +1,1 @@
-# -Starter-Project-Streachy-Header-Effect
+# Starter-Project-Streachy-Header-Effect
